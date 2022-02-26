@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<addon id="repository.mnival" name="mnival" version="0.1" provider-name="mnival">
+		<extension point="xbmc.addon.repository" name="mnival">
+			<info compressed="false">https://raw.githubusercontent.com/mnival/plugin/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/mnival/plugin/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/mnival/plugin/raw/master/zips</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>...</summary>
+			<description>...</description>
+			<platform>all</platform>
+		</extension>
+</addon>
